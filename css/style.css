@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+background-image:url(img/images/watercolor-designSLICE.png);
+background-repeat:repeat;
+margin:0;
+}
+/*header*/
+header{
+	background-image:url(img/images/img2/images/watercolor-designsliced_01.png);
+	background-repeat:no-repeat;
+	width:1420px;
+	height:500px;
+	margin:auto;
+	}
+/*article*/
+article{
+	background-image:url(img/images/img2/images/watercolor-designsliced_02.png);
+	background-repeat:no-repeat;
+ 	width:1420px;
+	height:450px;
+	margin:auto;
+	padding:inherit;
+}
+/*footer*/
+footer{
+	background-image:url(img/images/images/footer.png);
+	background-repeat:no-repeat;
+	width:935px;
+	height:80px;
+	margin:auto;
+}
